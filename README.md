@@ -1,2 +1,2 @@
 # Veer-demo
-This is my GIT first repository.
+This is my first GIT repository.
